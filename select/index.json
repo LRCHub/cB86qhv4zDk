@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "My Story",
+  "base_artist": "INI",
+  "createdAt": "2025-12-09T12:37:35.476670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That's My Story",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/01_That's_My_Story_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That's My Story (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/02_That's_My_Story_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That's My Story (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": false,
+      "path": "select/03_That's_My_Story_(Album_Version)_Collin_Raye.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Season and my story.",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/04_Season_and_my_story._Meychan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hero of My Story 3style3",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/05_Hero_of_My_Story_3style3_Bladee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Listen to My Story (feat. Tom Baker, Simone Simons, Marcela Bovio, Caroline Westendorp, Joost van den Broek)",
+      "artist": "Ayreon feat. Caroline Westendorp, Joost van den Broek, Marcela Bovio, Simone Simons & Tom Baker",
+      "has_synced": true,
+      "path": "select/06_Listen_to_My_Story_(feat._Tom_Baker,_Simone_Simons,_Marcela_Bovio,_Caroline_West_Ayreon_feat._Caroline_Westendorp,_Joost_van_den_Broek,_Marcela_Bovio,_Simone_Sim.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Listen to My Story",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/07_Listen_to_My_Story_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Story (feat. 2 Chainz)",
+      "artist": "R. Kelly feat. 2 Chainz",
+      "has_synced": true,
+      "path": "select/08_My_Story_(feat._2_Chainz)_R._Kelly_feat._2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Story (Feat. 2 Chainz)",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/09_My_Story_(Feat._2_Chainz)_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You Knew My Story",
+      "artist": "Carmen Cusack & Bright Star Original Broadway Company",
+      "has_synced": false,
+      "path": "select/10_If_You_Knew_My_Story_Carmen_Cusack_&_Bright_Star_Original_Broadway_Company.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black My Story (Not History)",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": true,
+      "path": "select/11_Black_My_Story_(Not_History)_Ziggy_Marley_&_The_Melody_Makers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's My Story",
+      "artist": "Simon & Garfunkel",
+      "has_synced": false,
+      "path": "select/12_That's_My_Story_Simon_&_Garfunkel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's My Story and I'm Stickin' to It",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/13_That's_My_Story_and_I'm_Stickin'_to_It_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Make my story",
+      "artist": "Lenny code fiction",
+      "has_synced": true,
+      "path": "select/14_Make_my_story_Lenny_code_fiction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Listen to My Story (5.1 mix)",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/15_Listen_to_My_Story_(5.1_mix)_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Listen to My Story (instrumental)",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/16_Listen_to_My_Story_(instrumental)_Ayreon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Story",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_My_Story_INI.txt"
+    }
+  ]
+}
