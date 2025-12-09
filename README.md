@@ -1,0 +1,64 @@
+# INI – My Story
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Everyday 移り変わっていく空の下
+憧れと理想は今日も宙を舞ったまま
+白紙のページだけ続いていく僕の物語
+最初の一言も綴れないまま時が過ぎて
+見上げた空の遠さに足がすくんだ
+でもふっと聞こえた声
+Oh ありのまま Keep going
+Yeah 焦らなくてもいい
+僕が思い描いたその先へ
+さぁ行こうか
+踏み出した一歩 物語はここからさ
+君となら
+地図が無くたって きっと辿り着けるから
+I'll be there I'll be there I'll be there for
+you
+I'll be there I'll be there I'll be there for
+you
+どこまでも
+君のために僕はここに来たんだよ
+Spend whole new life with you
+憧れていた理想の場所 少し近づけた今なら
+過去の自分を悔やんだりはしない
+後ろを振り返っても追い風に打たれるだけさ
+蓋をした想いに耳を傾けて
+迷いも無くなって
+Oh 自分に素直に Trying
+So 信じても良いんだって
+心に導かれるまま
+さぁ行こうか
+飛び込んだ今 恐れることは何もない
+君となら
+新しい景色 見に行ける気がする
+I'll be there I'll be there I'll be there for
+you
+I'll be there I'll be there I'll be there for
+you
+どこまでも
+君のために僕はここに来たんだよ
+Spend whole new life with you
+本当は弱くて不安で
+彷徨ってしまっても君となら
+抜け出せるよ
+さぁ行こうか
+踏み出した一歩 物語は終わらない
+君となら
+全て魔法のように上手くいくはず
+I'll be there I'll be there I'll be there for
+you
+I'll be there I'll be there I'll be there for
+you
+どこまでも
+君のために僕はここにいるんだよ
+Spend whole new life with you
+おとぎ話なんかじゃない
+物語を描いていこう
+君といつまでも
+I'll be there I'll be there I'll be there
+Spend whole new life with you
+```
